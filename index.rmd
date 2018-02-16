@@ -45,6 +45,21 @@ This page will contain GitHub tips and troubleshooting articles relevant to the 
 
 In this section we will be describing our process on learning about what is the OHI, how is it calculates, what are all the goals about and how is each goal score calculated. We would like to share witht the community our questions and how we answer them. Also, provide materials that has been usefull for us to have a clear undertanding of the index.  
 
+***
+
+### Merge Trial Section...
+
+Hi this is a place to test out/learn about merge conflicts 
+I don't know why but I wanted to add some stuff in between Ellie's lines (Iwen).
+
+someone else write stuff in this section...
+
+Also am going to add stuff here too to try and make things difficult (Iwen).
+
+
+
+
+
 
 
 
