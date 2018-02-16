@@ -49,8 +49,11 @@ In this section we will be describing our process on learning about what is the 
 ### Merge Trial Section...
 
 Hi this is a place to test out/learn about merge conflicts 
+I don't know why but I wanted to add some stuff in between Ellie's lines (Iwen).
+
 someone else write stuff in this section...
 
+Also am going to add stuff here too to try and make things difficult (Iwen).
 
 
 
