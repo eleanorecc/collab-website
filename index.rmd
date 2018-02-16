@@ -13,7 +13,9 @@ output: html_document
 
 ***
 ### Blog
-***
+
+The OHI fellows will take turns updating the blog with posts about our experience learning how to calculate the Ocean Health Index, navigate data science, and interesting happenings in our day-to-day.
+
 ### R & Rmarkdown
 
 This page will contain posts about how we use RStudio and Rmarkdown including: 
