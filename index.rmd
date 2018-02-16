@@ -16,7 +16,11 @@ output: html_document
 ***
 ### R & Rmarkdown
 
+This page will contain posts about how we use RStudio and Rmarkdown including: 
 
+* Challenges we faced and how we resolved them
+* Cheatsheets we make about using Rmarkdown to make webpages or collaborative documents
+* General tips on how to set up and start using RStudio and Rmarkdown for collaborative science!
 
 ### Github
 ### OHI Theory
