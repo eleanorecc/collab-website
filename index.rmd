@@ -51,6 +51,8 @@ In this section we will be describing our process on learning about what is the 
 Hi this is a place to test out/learn about merge conflicts 
 someone else write stuff in this section...
 
+This is a test...
+
 
 
 
