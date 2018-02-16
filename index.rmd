@@ -11,7 +11,7 @@ output: html_document
 ### Tabs/Subsections:
 
 ### Home
-The home page of our website we envision as being a timeline with our progress on the OHI adventure. The timeline will be drawn vertically, the top being time 0 (January 2018, when we started learning the necesary tools), and the bottom being x (September, when we finally have OHI scores!). Along the timeline we think on having different points showing our achievement, issues, problems, comments throughout the process. This notes are going to be devided in the following section (each one representig a tab of the website): Blog, R &Rmarkdown, Github and OHI Theory. What each tab will contain is described bellow.
+The home page of our website we envision as being a timeline with our progress on the OHI adventure. The timeline will be a vertical line, the top being time 0 (January 2018, when we started learning the necesary tools), and the bottom being x (September 2018, when we finally have OHI scores!). Along the timeline we think on having different points showing our achievements, issues, problems, comments through out the process. These notes are going to be devided in the following section (each one representig a tab of the website): Blog, R &Rmarkdown, Github and OHI Theory. The description of each tab/section is describing bellow.
 
 ***
 
@@ -42,6 +42,7 @@ This page will contain GitHub tips and troubleshooting articles relevant to the 
 ***
 
 ### OHI Theory
+
 In this section we will be describing our process on learning about what is the OHI, how is it calculates, what are all the goals about and how is each goal score calculated. We would like to share witht the community our questions and how we answer them. Also, provide materials that has been usefull for us to have a clear undertanding of the index.  
 
 ***
@@ -49,9 +50,12 @@ In this section we will be describing our process on learning about what is the 
 ### Merge Trial Section...
 
 Hi this is a place to test out/learn about merge conflicts 
+I don't know why but I wanted to add some stuff in between Ellie's lines (Iwen).
+
 someone else write stuff in this section...
 
 This is a test...
+Also am going to add stuff here too to try and make things difficult (Iwen).
 
 
 
